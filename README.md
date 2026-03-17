@@ -14,3 +14,8 @@ Concepts Used:
 - if/elif conditions
 - for loop
 - user input
+
+## How to Run
+
+```bash
+python number_utility_program.py
